@@ -1,0 +1,22 @@
+
+.w-full{
+    width:100%;
+}
+.flex {
+    display: flex;
+}
+.flex-row{
+    flex-flow: row;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.items-center{
+    align-items: center;
+}
+.logo-img{
+    height: 50px;
+    margin:10px;
+}
